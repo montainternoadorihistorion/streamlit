@@ -1,0 +1,12 @@
+{
+  "tested_commit": "1cb733f572cad41b721aa67f56486a5f892fbfb9",
+  "run_url": "https://github.com/montainternoadorihistorion/streamlit/actions/runs/41212108333",
+  "conclusion": "success",
+  "unit_tests_passed": 17,
+  "browser_dom_tests_passed": 15,
+  "active_urls": 34,
+  "commented_urls": 11,
+  "new_apps_rendered": 5,
+  "fork_actions_reenabled_via_ui": true,
+  "scope": "Five new revision apps after custom-component support. Separate old all-app run was cancelled and is recorded as incomplete."
+}

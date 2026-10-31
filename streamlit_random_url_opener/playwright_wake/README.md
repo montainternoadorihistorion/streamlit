@@ -74,3 +74,10 @@ GitHubがフォーク元から継承した実行を停止しています。設�
 今回のmontainternoadorihistorion側は2026-10-31にこの画面から再有効化しました。
 
 独自の画面部品は、Streamlit本文内の正規の部品iframeに操作可能な画面が現れた場合だけ成功と判定します。部品自体の読み込みエラー、空のiframe、読み込み中表示は成功に数えません。
+
+## 更新後の実確認（2026-10-31）
+
+フォーク側のActions停止を画面から解除し、最新版で新しい5アプリすべての表示を確認しました。単体17件・実ブラウザの画面判定15件も成功しました。
+[最終実行](https://github.com/montainternoadorihistorion/streamlit/actions/runs/41212108333) / [保存した個別結果](../../verification/20261031/final/wake-results.json)
+
+途中で始めた旧判定による全34件の追加巡回は、判定更新のため10件処理時点で停止しました。[部分記録](../../verification/20261031/partial-old-run/summary.json)は全件成功の記録ではありません。旧クイズ系4件で待機時間超過があり、中国語クイズでは実画面にも mobile_streamlit_bridge.esperanto_mobile_pwa の部品読み込みエラーが出ていました。独自画面の判定も更新したため、4件すべてを同じ故障と断定しません。アプリ本体のソースは今回変更していません。

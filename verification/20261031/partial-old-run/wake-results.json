@@ -1,0 +1,218 @@
+{
+  "updated_utc": "2026-10-31T14:51:15.568798+00:00",
+  "complete": false,
+  "total": 34,
+  "checked": 10,
+  "successful": 6,
+  "results": [
+    {
+      "name": "修正版・日本語漢字変換 / Esperanto-Kanji-Ruby-JA",
+      "url": "https://esperanto-cjk-revision-ja-20261017.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 6.053,
+      "checked_url": "https://esperanto-cjk-revision-ja-20261017.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "修正版・中国語漢字変換 / Esperanto-Kanji-Ruby-ZH",
+      "url": "https://esperanto-cjk-revision-zh-20261017.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 5.407,
+      "checked_url": "https://esperanto-cjk-revision-zh-20261017.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "修正版・韓国語漢字変換 / Esperanto-Kanji-Ruby-KO",
+      "url": "https://esperanto-cjk-revision-ko-20261017.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 5.978,
+      "checked_url": "https://esperanto-cjk-revision-ko-20261017.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "修正版・日本語逆変換 / Esperanto-Reverter-JA",
+      "url": "https://esperanto-reverter-revision-ja-20261018.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 5.724,
+      "checked_url": "https://esperanto-reverter-revision-ja-20261018.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "修正版・中国語逆変換 / Esperanto-Reverter-ZH",
+      "url": "https://esperanto-reverter-revision-zh-20261018.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 5.474,
+      "checked_url": "https://esperanto-reverter-revision-zh-20261018.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "esperanto_kanjika_20240310 / main.py",
+      "url": "https://esperantokanjika20240310-yxnk6e4xgwkm7swpmff9xc.streamlit.app/",
+      "status": "awake",
+      "detail": "Visible Streamlit app content",
+      "attempts": 1,
+      "wake_clicked": false,
+      "elapsed_seconds": 5.235,
+      "checked_url": "https://esperantokanjika20240310-yxnk6e4xgwkm7swpmff9xc.streamlit.app/",
+      "ok": true
+    },
+    {
+      "name": "esperanto_quiz / app_Cxina_versio.py",
+      "url": "https://esperanto-quiz-zh.streamlit.app/",
+      "status": "timeout",
+      "detail": "No rendered Streamlit app content",
+      "attempts": 2,
+      "wake_clicked": false,
+      "elapsed_seconds": 180.003,
+      "checked_url": "https://esperanto-quiz-zh.streamlit.app/~/+/",
+      "ok": false
+    },
+    {
+      "name": "esperanto_quiz / app_Korea_versio.py",
+      "url": "https://esperanto-quiz-ko.streamlit.app/",
+      "status": "timeout",
+      "detail": "No rendered Streamlit app content",
+      "attempts": 2,
+      "wake_clicked": false,
+      "elapsed_seconds": 180.004,
+      "checked_url": "https://esperanto-quiz-ko.streamlit.app/~/+/",
+      "ok": false
+    },
+    {
+      "name": "esperanto_quiz / app.py",
+      "url": "https://esperanto-quiz.streamlit.app/",
+      "status": "timeout",
+      "detail": "No rendered Streamlit app content",
+      "attempts": 2,
+      "wake_clicked": false,
+      "elapsed_seconds": 180.003,
+      "checked_url": "https://esperanto-quiz.streamlit.app/~/+/",
+      "ok": false
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes / app_Cxina_versio.py",
+      "url": "https://esperantowords4choicequizzes-cxina-versio.streamlit.app/",
+      "status": "timeout",
+      "detail": "No rendered Streamlit app content",
+      "attempts": 2,
+      "wake_clicked": false,
+      "elapsed_seconds": 180.004,
+      "checked_url": "https://esperantowords4choicequizzes-cxina-versio.streamlit.app/~/+/",
+      "ok": false
+    }
+  ],
+  "unvisited": [
+    {
+      "name": "esperanto_words_4choice_quizzes / app_Korea_versio.py",
+      "url": "https://esperantowords4choicequizzes-korea-versio.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes / app.py",
+      "url": "https://esperantowords4choicequizzes-bzgev2astlasx4app3futb.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes / sentence_app_Cxina_versio.py",
+      "url": "https://esperantowords4choicequizzes-fwvq3dnm2jq85gbaztjlyy.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes / sentence_app_Korea_versio.py",
+      "url": "https://esperantowords4choicequizzes-korea-version-frazoj.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes / sentence_app.py",
+      "url": "https://esperantowords4choicequizzes-tiexjo7fx5elylbsywxgxz.streamlit.app/"
+    },
+    {
+      "name": "esperanto-choice-quiz-streamlit / app.py",
+      "url": "https://esperanto-choice-quiz-app.streamlit.app/"
+    },
+    {
+      "name": "esperanto-hanzi-converter-and-ruby-annotation-tool-chinese",
+      "url": "https://esperanto-hanzi-converter-and-ruby-annotation-tool-chinese-dgw.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool_chinese_beta",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-toolchinesebeta.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-beta",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-beta-arlezb.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-beta-v2",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-beta-v2-ewi.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-korean",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-korean-yrrx.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-korean-beta",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-korean-beta.streamlit.app/"
+    },
+    {
+      "name": "hanzized-esperanto-reverter-zh",
+      "url": "https://hanzized-esperanto-reverter-zh.streamlit.app/"
+    },
+    {
+      "name": "kanjized-esperanto-reverter",
+      "url": "https://kanjized-esperanto-reverter.streamlit.app/"
+    },
+    {
+      "name": "monato_globalvoices_elpopolacxinio_scivolemo_ueafacila_liberafolio",
+      "url": "https://esperanto-articles.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-english / main.py",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-english.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-english-main / main.py",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-english-beta.streamlit.app/"
+    },
+    {
+      "name": "esperanto-kanji-converter-and-ruby-annotation-tool-esperanto / main.py",
+      "url": "https://esperanto-kanji-converter-and-ruby-annotation-tool-esperanto.streamlit.app/"
+    },
+    {
+      "name": "kolektilo_de_pola-retradio-artikoloj / streamlit_app_eo.py",
+      "url": "https://kolektilo-de-pola-retradio-artikoloj-eo.streamlit.app/"
+    },
+    {
+      "name": "kolektilo_de_pola-retradio-artikoloj / streamlit_app_ko.py",
+      "url": "https://kolektilo-de-pola-retradio-artikoloj-ko.streamlit.app/"
+    },
+    {
+      "name": "kolektilo_de_pola-retradio-artikoloj / streamlit_app.py",
+      "url": "https://kolektilo-de-pola-retradio-artikoloj-ja.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes_kopio / app.py",
+      "url": "https://esperantowords4choicequizzes-mmhhoyyrd5vgxxtour5fzt.streamlit.app/"
+    },
+    {
+      "name": "esperanto_words_4choice_quizzes_kopio / sentence_app.py",
+      "url": "https://esperantowords4choicequizzes-frazoj-ja.streamlit.app/"
+    }
+  ],
+  "meaning": "Rendered app content was observed; this is not a guarantee of continuous availability or correct conversion."
+}

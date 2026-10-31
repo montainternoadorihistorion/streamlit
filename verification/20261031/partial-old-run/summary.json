@@ -1,0 +1,16 @@
+{
+  "run_url": "https://github.com/montainternoadorihistorion/streamlit/actions/runs/41211013012",
+  "tested_commit": "e1fabef4e0425a4f05d47f59d24458689f2d30da",
+  "conclusion": "cancelled",
+  "scope": "Incomplete additional all-app run before custom-component readiness/error handling; stopped when superseded.",
+  "checked": 10,
+  "successful": 6,
+  "total": 34,
+  "not_checked": 24,
+  "new_revision_apps_all_rendered": true,
+  "limits": [
+    "Timeouts here are old-checker observations, not all confirmed application defects.",
+    "Direct Chrome observation separately confirmed a mobile_streamlit_bridge.esperanto_mobile_pwa loading error in esperanto-quiz-zh.",
+    "Not a full sweep completion."
+  ]
+}
